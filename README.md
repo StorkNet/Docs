@@ -6,3 +6,6 @@ Short Demo of the protocol
 
 Longer Demo including an explanation
 [https://youtu.be/xVcGHaLnF6E](https://youtu.be/xVcGHaLnF6E)
+
+Whitepaper of the Protocol
+[https://github.com/StorkNet/Docs/blob/main/StorkNet.pdf](https://github.com/StorkNet/Docs/blob/main/StorkNet.pdf)
